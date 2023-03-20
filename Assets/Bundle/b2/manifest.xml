@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<BundleManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi=	"http://www.w3.org/2001/XMLSchema-instance">
+
+	<BasePath>Assets/Bundle/b2</BasePath>
+	<Namespace>B2</Namespace>
+
+	<Hulls>
+		<Entry Name="CV_B2" Address="B2.prefab"/>
+	</Hulls>
+
+</BundleManifest>

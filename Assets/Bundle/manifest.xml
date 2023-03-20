@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<BundleManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi=	"http://www.w3.org/2001/XMLSchema-instance">
+
+	<BasePath>Assets/Bundle</BasePath>
+	<Namespace>ultrakill2</Namespace>
+
+	<Hulls>
+	</Hulls>
+
+	<Components>
+		<Entry Name="loweffort" Address="loweffort.prefab"/>
+	</Components>
+
+</BundleManifest>

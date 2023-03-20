@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<BundleManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi=	"http://www.w3.org/2001/XMLSchema-instance">
+
+	<BasePath>Assets/Bundle/ramiel</BasePath>
+	<Namespace>geoscream</Namespace>
+	<ResourceFile>resources.xml</ResourceFile>
+
+	<Hulls>
+		<Entry Name="5th" Address="Ramiel.prefab"/>
+	</Hulls>
+
+	<Components>
+		<Entry Name="Ramiel Core" Address="Ramiel Core.prefab"/>
+		<Entry Name="Ramiel Command" Address="Ramiel Command.prefab"/>
+		<Entry Name="Ramiel Sensor" Address="Ramiel Sensor.prefab"/>
+		<Entry Name="Ramiel Beam" Address="Ramiel Beam.prefab"/>
+///		<Entry Name="Ramiel Shield" Address="Ramiel Shield.prefab"/>
+	</Components>
+
+</BundleManifest>

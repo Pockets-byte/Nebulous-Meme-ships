@@ -1,0 +1,760 @@
+ManifestFileVersion: 0
+CRC: 139771353
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 12f713d70d2e31d42e4497a24808e89e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2bad2189073d37fa3c812171860bb467
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51342c4d7512cfb4c8b720e91db6b9e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9fe8838e1cd41944bb59b094c255892b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5d51f341e1cf7a46a4bca27c5190983, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77c1cb872ba123c45a1823bd91c9cbd7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0e821f6246660b41bf8a93044f4f020, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4ead792dee631d4b83b8788dba1bb6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b034ca9452b7774babb275dde513438, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b97b014da5a09c94cae893e6b1c41588, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f01159931cd10c46bd50661957b81d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c53ec7f87ef4d34aac817fa6985b2db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3668197b3c719fe48bbeee66973dfe7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a960420afe2518548a9d7cf03dc2ef61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8ac6e1400097d840b88ac7014228bc7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b934dae2e34902c4b8e57412c5c6baf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c97580429071947a48b1966fbf5445, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d38ab4a8e20a8e46b9cd9da263a8cdc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 389fb8be6b3ff9e4b82cbbc4e55ebb32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89925941dd90fd649bdbcb2211e35128, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 475c919f343dde5488499a1ff9db78f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48b6145344e824e488f958b3f2d0c0b8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1870fa727ea23d4696c5b5705cead73, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: beedfabedc53d3447bfaa38c54131dc7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1caff888c556de4d9050add4c34f503, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79b2f1763ab83448aa18352852f9a1f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 739f9d7d01281e04b866bc8d9a2622b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 940ed454484247b4790fa336eb2b2832, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff94881d02819c041b29e533aec72098, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67fb777171910a841b7101cb0b52fa6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 087dba97bf3a84c46838853ff856a854, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4366f5cf70618b64aa019d495a600827, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de44dec63c3494b44901de234d7b474f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f249aebfb2ba5a54aa4141d82591226b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d0dffdd7b2c91d45b66fe7fcdb9c485, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf0ea670e5662f248a8133b517c768fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 47b166f63c460334c9486d407584da80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc0770a7ab569e4449f5a0cea8ae11f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e4ab5698c8bafb48bd8ecc6515fbf19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39c880a38fc893e43996e0dc95275d69, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1a09d4b804062c41bf4ef7a04f2cf57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22ed96c0a9f680c4784c2a817fc56c3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65b548aac0cd75c4698e05199e469ba6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e6f667781e11ae4694ad2cc7c37d013, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c66bd187ada517e4dbd619b139df156d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ca6f7e56720d03408c9a7bac8931e33, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea8359ead4bd1be4fa51611974ef2694, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ac601e581c9b5242a3c3783b9712d0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc2bff24e9eb8ee489ada16f4058f8d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef23df4a45d24884089616abb8360d51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5f89103445197a409e6b9d4b99ac3aa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 919155e4353102849a657c105d4bb15c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 716529cee5278cc49911578862dad2e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7a33c4c83e25ed43a1d2ac17371fcf6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 311c14931607d6c47b850069a2b6fa51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b53bffef3c8149f45b6df64c5ed5de20, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2d453e3b8ba8c554fb0c9beae3f2877a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f1b8411257af134d97b6a43434d0f2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f2dbc3a81e403e479d21fdeb9ed0ab8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c3a98ae33e437594682f8072d8d1633d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e26bff9e8ca0ea4419fd1c6bdc0d6896, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b23e521a85ed4fa4ca1d2ba395fc715b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64c6e7c344ad57445a9f381219709f50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51342eb840b6be34ab8d0b3bd34d58fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b8afe0ef4ae014d43a84a3197c6f97d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f3a8ca6913062044ad20bbbeeeaca97, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cfaf9a11d0bb404bacda143bf1ad022, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5927f3942d9b5b42aa8b95741148509, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66a5dfe3a3da1d149a349fb4141c0345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da0e7fc71e886844b8295ca8a936d2f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72e2bf32c9c19c845920ba884b04c259, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee4b81b173f8e594db242da6719b411e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f83f4b09aea1104082612ce8e268039, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf8ba823c2c3cc4aa10524ddeb4203d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ee7f6c8e20bbd74da590eb021326cf8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ced3e470a7340084baae793629682208, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c7d178c7a9cc0b44995a066c07f84c9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eac1ea87924c599408a407abe552733c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07c9e1a4459571145a2725f167ac031e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bae2dea8fc0d0914da849c3878d6fab6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0672c9b56badf794f94e85e991ca4fe7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce6f9b2b931189348a8d9f8f818ac243, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c94d69776a443684db1460bc7d65cb58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20e06b2fa14927249835438ace52ffda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cc7263ebb8be6444a008ceb7280aee9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e2cd0b9bb1fc71147858ddd91af6fc56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d46f8d7b3da26841a0508133c4fe1ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aed182f469ae55c4b878fa6ecaf3b821, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c15e178dd05c7245a02c3bbdd4a375f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1b2cd5fa2a9b974a9793f291a66fb29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e1e0a24bf351ae4081ebd0f0762345e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 131a76178c4e4c142ba168449f624260, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82c09cadb4278fa4580fdbad8ec75148, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd42d1f99a870da41909fdc40f7b63f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34074e5bbed46a145b1ca611fa078ed4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6c5c6506f4c946f41a5354dc7240aa48, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e08a1ae3ad9f4c24da4d404b339204fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1327118270e7f3b4192bca6345b7cbd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc5defe9ac7557647a59f0d6fe6448d2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6581be0de64853641b95bd481527a0ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 045754ab41d87d44782f8b6c1f81acda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06581e3df376fad47bc5aefb819c4fb2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d8cc5922332cce4ab8468358eda4551, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3a8da6d1072d2e45909486ba75923c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a9dd25da0292f954e9ce96f5f20dee36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89ca3061e3d7ee148aab42e997164666, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0f5938a5e3168045b6dae44e1a9c554, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c4183f6374871c5458df763952ab26fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19461cf4b872f8a489d92626c0aeb666, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e73d6ff3e5a563488a07ca370f96f84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: feb4a084e3e9c8e4db5557b7b2c6dcbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8cfbab3ce7da784c9502a7d5eb2ad0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ba8ef0e8934ab74280d944e3040be28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36f6276ee7fb2be47b8e4502232363c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1febb4b158484fe4c8fae0c4aa0daf8d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f402c7cc24f4c2344957f7031efb4605, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bff6bcce5cd43947bbfe4faea6f83c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebb932bc6a56725439070a525f6827e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 526ee77d005fe2c48b00d39261daece6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3faa2b786f526aa4b92440974c78d1e7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9a7a978d1facec4ea0380134032631c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953beb541740ddc499d005ee80c9ff29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9968f2256e37a6c418d94bdb20b5bc8c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: faf025f84ff1ef24387d6774fff103f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f63d5c65e6c0dce468e6e83e108d711c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df714ecfb55b6ce439d15c0fd78c4813, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a8916b54466f9d40b1f751612bce592, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b5d8d65eedc95664489b9bdf6892964e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5e804aa4e94b0da4badcc8e031d50c31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8f8e1e7d0bb6ae44986bf8edad895352, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: efc7e9c7f316fcc439f0601287d8a7b6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01376bf2217d4b341b1b10cfdf4c84c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f564aa9128d9d994497a56c36cc8e480, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 636b11a5a57c75b45959128606699d7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68236b55da504ef499b54a310e14d492, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce1d3b4b98785274485b564ef3a75ac0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c941dd75d077e5947aa52de1f19b698e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e36b9fed094aaf1468e8c8ee1ca63f53, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f694f3323b2cba4e996e34f70b84b56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e137e9d54f639c546adb291037a9208b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab0f42f34c224e544bf4060f6d0b3245, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a44d64f7241bee94a8603ef7a0f6fed0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d4adc298ea3b234384bb33b92844e2b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b91ecbcc199f4492b9a91e820070131, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4301743bae97b0547b63f4c62f723145, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 17c04ee9fe2d8364aa211bbb6a4e8ab9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03035dd41505ff24e96f13754cc2cb42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 240196c8e5335234c9419634bb790e22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f13c254681db4fe4e826b65440c7d159, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9177f51fbbbe9d0478729e0beb51e65b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d2e564d784a4e34f8e00a6df47114fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f304047ba075749abd030cc5ebcf58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2cffee921b7d6f4fbd09212863f27cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 936eb6bdad2eda848854d7cf06268961, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51b513f9b9547e548b2ff2ceba1b27d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c719b7bb96bd4a2429cedbe29f3deaf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d8b550ecea4fbc4a8c57024522cc784, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b346b0df2ca090b4db54adc784ed799d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77bb94243163f094d8afd9570e8c17c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2061862b6899ee438372749eb72e4e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c5b26fc3e749f6488092f0d13474ba5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c3220e81ad1bd4469baa791d3897903, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a436b8836a62b684caef6afc828500a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c8433514e3a3544930b1464959b82a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fbd500823a9c1e24f847ad9c6a592b77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f61d67101833ad44f8f9e2f4d24fca44, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0302545bc1defb24f8637174d67fab9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd31dc2f461f2d74f9fe615131723073, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbe78343611ffbc46b4e4c800a836778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb065aab81a4a8c41b5bd026792e4320, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0f1c6c68d64f224b8341ea7fe399530, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7ced0078abcc61b4ea573b08d3a56267, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4edb80e4300029d40902b7eb08940ca7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d06360185ab75f4a96c4d4bffb3b17c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8d34282b4a7019429a373b167e3c750, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac9cf0ea29b3e5242b00907148b655e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 536d49529cdefa844b6459d7b1686180, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b258dce83327874f8cc3808a8ead136, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d4559d8e46728e4b8a7bdecfbe335ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 015f763bc8eed3c4882405b12cd6d452, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e02fb0c390d302f459833bb693d9ccf7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b6f786e424d11e40a74852ea0482f0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 554ecea5183ad994197846f4c0bd395b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 28ae39af8bca4da458c130ffb5548f39, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c5ec04fbbb12934786d2374ddf0f2f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0168ccc8442d8724786faafc7cbe427e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c73b3703e2e5aed4fb53b0151b3be894, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f74aedd71d9a4f55b3ce499326d45fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a2624929033478e439bdc50134043cdd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90619fba732916a42ab5439fa2132e64, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4211d0bbf14be714a991fe0f04cd25d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb41a9e5368b15e4eb874fba85445133, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b6e9f4f34e469e44896b586deb5dea6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c1360cbbd7d88f94c9afe3262764794f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 900fb2251a71a6c4c9d87757e9b74ef8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db70c937d0866974f81556076bce72c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 243a93a0d24d9bf459ff15a5d29bee2f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk65 Cannon.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Fast Startup Module.asset
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Decoy Launcher.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/CM-4D1 Decoy Container (Clipper).prefab
+- Assets/#BUNDLES/Stock/F1/Components/ES32 'Scryer' Missile ID System.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM580 'Raider' Drive.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Energy Regulator.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/250mm HE-RPF Shell.asset
+- Assets/#BUNDLES/Stock/Debuffs/FC Waveguide Bent.asset
+- Assets/#BUNDLES/Stock/F1/Weapons/VLS-1-46 Launcher.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/BW800-R Drive.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/BW1500-R Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM230 'Whiplash' Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Hulls/Keystone Destroyer.prefab
+- Assets/#BUNDLES/Stock/F1/Hulls/Vauxhall Light Cruiser.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Small Energy Regulator.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/15mm Sandshot.asset
+- Assets/#BUNDLES/Stock/F2/Weapons/R400 'Bloodhound' LRT Radar.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/J17 Jammer.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/T20 Cannon.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM200 Drive.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/SGT-3/SGT-3 Body.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM500 Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/CLS-3 Launcher.prefab
+- Assets/#BUNDLES/Stock/F1/Components/Strike Planning Center.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/HE Kinetic Penetrator.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/M-30 'Mattock' Mine.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Cluster Decoy Launcher.asset
+- Assets/#BUNDLES/Stock/F1/Hulls/Sprinter Corvette.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/P20 'Bastion' PDT.prefab
+- Assets/#BUNDLES/Stock/F1/Components/FR3300 Micro Reactor.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Reactor Explosion Event.asset
+- Assets/#BUNDLES/Stock/Munitions/SGM-210 Squall.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Reinforced DC Locker.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM540 'Dragonfly' Drive.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/RL36 Launcher.prefab
+- Assets/#BUNDLES/Stock/F2/Components/Ithaca Bridgemaster.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Magazine Sprinklers.prefab
+- Assets/#BUNDLES/Stock/Scenarios/Center Flag.asset
+- Assets/#BUNDLES/Stock/F1/Drives/FM530 'Whiplash' Drive.prefab
+- Assets/#BUNDLES/Stock/Common/Components/CR10 Antenna.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/CM-4M Mine Container.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM30X 'Prowler' Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/EA99 Active Decoy.prefab
+- Assets/#BUNDLES/Stock/F2/Faction Protectorate.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/CM-4R Rocket Container.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/450mm AP Shell.asset
+- Assets/#BUNDLES/Stock/Maps/Caltrop.prefab
+- Assets/#BUNDLES/Stock/F2/Components/Boosted Reactor.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Blast Fragmentation.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/300mm AP Rail Sabot.asset
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk82 Railgun.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk20 'Defender' PDT.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Track Correlator.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Submunition Decoy.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk29 'Stonewall' PDT.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Missile Programming Bus.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk610 Beam Turret.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Container Bank Cookoff.asset
+- Assets/#BUNDLES/Stock/Maps/Asteroid Thicket.prefab
+- Assets/#BUNDLES/Stock/F2/Hulls/Bulk Clipper.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/250mm HE Shell.asset
+- Assets/#BUNDLES/Stock/Common/Components/Redundant Reactor Failsafes.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Atmosphere Leak.asset
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Fixed Active Radar Seeker.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/EA12 Chaff Decoy.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Plant Control Center.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/TE45 Mass Driver.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/P60 'Grazer' PDT.prefab
+- Assets/#BUNDLES/Stock/Scenarios/Station Capture.asset
+- Assets/#BUNDLES/Stock/F2/Weapons/P11 'Pavise' PDT.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/500mm Fracturing Block.asset
+- Assets/#BUNDLES/Stock/Common/Components/Intelligence Center.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/C81 Plasma Cannon.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/SGM-H-3/SGM-H-3 Body.prefab
+- Assets/#BUNDLES/Stock/F2/Hulls/Shuttle Clipper.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk90 'Aurora' PDT.prefab
+- Assets/#BUNDLES/Stock/F2/Hulls/Tug Clipper.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk61 Cannon.prefab
+- Assets/#BUNDLES/Stock/Voices/Meccanismo Voice.asset
+- Assets/#BUNDLES/Stock/Debuffs/Ammunition Loader Jammed.asset
+- Assets/#BUNDLES/Stock/F1/Drives/FM500R Drive.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Cold Gas Bottle.asset
+- Assets/#BUNDLES/Stock/Debuffs/Turret Bearing Surface Bent.asset
+- Assets/#BUNDLES/Stock/F1/Components/FR4800 Reactor.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/RF101 'Bullseye' Radar.prefab
+- Assets/#BUNDLES/Stock/Voices/Delly Voice.asset
+- Assets/#BUNDLES/Stock/F2/Hulls/Bulker Line Ship.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/M-50 'Auger' Sprint Mine.prefab
+- Assets/#BUNDLES/Stock/Common/Components/SH12-25 REDACTED.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Wake-Homing Seeker.asset
+- Assets/#BUNDLES/Stock/F1/Hulls/Axford Heavy Cruiser.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Radar Absorbent Coating.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/450mm HE Shell.asset
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk81 Railgun.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Fire.asset
+- Assets/#BUNDLES/Stock/F2/Hulls/Ocello Cruiser.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM240 'Dragonfly' Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Hulls/Raines Frigate.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Blast Fragmentation EL.asset
+- Assets/#BUNDLES/Stock/Munitions/Sensor Buoy.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Fuel Line Explosion Event.asset
+- Assets/#BUNDLES/Stock/Voices/Griff Voice.asset
+- Assets/#BUNDLES/Stock/Common/Components/Mount Gyros.prefab
+- Assets/#BUNDLES/Stock/F1/Hulls/Solomon Battleship.prefab
+- Assets/#BUNDLES/Stock/F1/Components/RM50 'Parallax' Radar.prefab
+- Assets/#BUNDLES/Stock/F2/Components/Light Civilian Reactor.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/120mm HE Shell.asset
+- Assets/#BUNDLES/Stock/Debuffs/Magazine Cookoff.asset
+- Assets/#BUNDLES/Stock/F1/Components/Signature Scrambler.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/C65 Cannon.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Hardened Skin.asset
+- Assets/#BUNDLES/Stock/Common/Components/Rapid DC Locker.prefab
+- Assets/#BUNDLES/Stock/Voices/Lauren Voice.asset
+- Assets/#BUNDLES/Stock/F2/Weapons/C30 Cannon.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/M-30-N 'Mattock' Cooperative Mine.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Self-Screening Jammer.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/400mm Plasma Ampoule.asset
+- Assets/#BUNDLES/Stock/Common/Components/Bulk Magazine.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Launcher Deluge System.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/Container Stack Launcher.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/SGM-1/SGM-1 Body.prefab
+- Assets/#BUNDLES/Stock/Munitions/SGM-233 Gale.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Container Bank Explosion.asset
+- Assets/#BUNDLES/Stock/Common/Components/Battle Dressing Station.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/R-2 'Piranha' Rocket.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/E90 'Blanket' Jammer.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Rapid-Cycle Cradle.prefab
+- Assets/#BUNDLES/Stock/Missions/Harsh Winds Blow.asset
+- Assets/#BUNDLES/Stock/F2/Weapons/R550 Early Warning Radar.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/Container Bank Launcher.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk550 Mass Driver.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Direct Guidance.asset
+- Assets/#BUNDLES/Stock/F2/Hulls/Container Line Ship.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/E57 'Floodlight' Illuminator.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk68 Cannon.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk95 'Sarissa' PDT.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/100mm HE-HC Shell.asset
+- Assets/#BUNDLES/Stock/Common/Components/Small Reactor Booster.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/E30 Illuminator.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/VLS-2 Launcher.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/E70 'Interruption' Jammer.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Reinforced CIC.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/E15 'Masquerade' Signature Booster.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Small Workshop.prefab
+- Assets/#BUNDLES/Stock/tips.txt
+- Assets/#BUNDLES/Stock/F2/Munitions/CM-4D2 Decoy Container (Line Ship).prefab
+- Assets/#BUNDLES/Stock/Common/Components/Strobe Correlator.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/L50 'Blackjack' Laser Dazzler.prefab
+- Assets/#BUNDLES/Stock/Maps/Pillars.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Focused Particle Accelerator.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Main Bus Short.asset
+- Assets/#BUNDLES/Stock/Maps/Shooting Gallery.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Steerable Extended Active
+  Radar Seeker.asset
+- Assets/#BUNDLES/Stock/Debuffs/Cell Launcher Cookoff.asset
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Cruise Guidance.asset
+- Assets/#BUNDLES/Stock/Common/Components/Gun Plotting Center.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Reactor Overload.asset
+- Assets/#BUNDLES/Stock/Common/Components/Adaptive Radar Receiver.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Large DC Locker.prefab
+- Assets/#BUNDLES/Stock/Maps/Eye.prefab
+- Assets/#BUNDLES/Stock/F1/Components/CR70 Antenna.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Supplementary Radio Amplifiers.prefab
+- Assets/#BUNDLES/Stock/F2/Components/Large DC Storage.prefab
+- Assets/#BUNDLES/Stock/Maps/Abyssal.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/100mm AP Shell.asset
+- Assets/#BUNDLES/Stock/Munitions/SDM-112 Riposte.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/C60 Cannon.prefab
+- Assets/#BUNDLES/Stock/Munitions/SGM-206 Thunderhead.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Fixed Anti-Radiation
+  Seeker.asset
+- Assets/#BUNDLES/Stock/Common/Components/Missile Programming Bus Array.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/MLS-3 Launcher.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Focusing Element Misaligned.asset
+- Assets/#BUNDLES/Stock/Common/Components/Reinforced Thruster Nozzles.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/J360 'Lyrebird' Jammer.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/J15 'Bellbird' Jammer.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Magazine Explosion Event.asset
+- Assets/#BUNDLES/Stock/F1/Components/RS35 'Frontline' Radar.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/RF44 'Pinpoint' Radar.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/CHI-777 Yard Drive.prefab
+- Assets/#BUNDLES/Stock/resources.xml
+- Assets/#BUNDLES/Stock/F1/Munitions/250mm AP Shell.asset
+- Assets/#BUNDLES/Stock/Maps/Cliff.prefab
+- Assets/#BUNDLES/Stock/F2/Munitions/100mm Grape.asset
+- Assets/#BUNDLES/Stock/Voices/Jane Voice.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/120mm AP Shell.asset
+- Assets/#BUNDLES/Stock/F2/Drives/CHI-9100 Long Haul Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/EA20 Flare Decoy.prefab
+- Assets/#BUNDLES/Stock/F1/Munitions/120mm HE-RPF Shell.asset
+- Assets/#BUNDLES/Stock/F2/Drives/BW2000 Drive.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Berthing.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/VLS-1-23 Launcher.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/SGM-2/SGM-2 Body.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Heatsink Ruptured.asset
+- Assets/#BUNDLES/Stock/F2/Weapons/C53 Cannon.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Missile Parallel Interface.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Analysis Annex.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/BW1500 Drive.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/RL18 Launcher.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/E71 'Hangup' Jammer.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/HE Impact.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/Flak Round.asset
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Steerable Active Radar
+  Seeker.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/100mm HE Shell.asset
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Boosted Self-Screening
+  Jammer.asset
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk66 Cannon.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Fixed Semi-Active Radar
+  Seeker.asset
+- Assets/#BUNDLES/Stock/Munitions/SGM-225 Hurricane.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk25 'Rebound' PDT.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/E20 'Lighthouse' Illuminator.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Citadel CIC.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Small DC Locker.prefab
+- Assets/#BUNDLES/Stock/F1/Components/RS41 'Spyglass' Radar.prefab
+- Assets/#BUNDLES/Stock/Munitions/SGT-350 Mace.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Command Receiver.asset
+- Assets/#BUNDLES/Stock/Scenarios/Tug Of War.asset
+- Assets/#BUNDLES/Stock/Scenarios/Deathmatch.asset
+- Assets/#BUNDLES/Stock/F1/Weapons/E55 'Spotlight' Illuminator.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Reinforced Magazine.prefab
+- Assets/#BUNDLES/Stock/F2/Components/Civilian Reactor.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Basic CIC.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/Sundrive Racing Pro.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/T81 Plasma Cannon.prefab
+- Assets/#BUNDLES/Stock/Voices/Solestine Voice.asset
+- Assets/#BUNDLES/Stock/Debuffs/Sensor Oscillator Drift.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/20mm Slug.asset
+- Assets/#BUNDLES/Stock/Maps/Maze.prefab
+- Assets/#BUNDLES/Stock/manifest.xml
+- Assets/#BUNDLES/Stock/F1/Weapons/VLS-3 Launcher.prefab
+- Assets/#BUNDLES/Stock/Scenarios/Control.asset
+- Assets/#BUNDLES/Stock/F1/Munitions/SGM-H-2/SGM-H-2 Body.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Ammunition Elevators.prefab
+- Assets/#BUNDLES/Stock/F2/Components/Bulwark Huntress.prefab
+- Assets/#BUNDLES/Stock/Voices/Marshall Voice.asset
+- Assets/#BUNDLES/Stock/Debuffs/Sensor Antenna Bent.asset
+- Assets/#BUNDLES/Stock/F1/Drives/FM200R Drive.prefab
+- Assets/#BUNDLES/Stock/Debuffs/Fuel Line Fire.asset
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk600 Beam Cannon.prefab
+- Assets/#BUNDLES/Stock/Scenarios/Two Flags.asset
+- Assets/#BUNDLES/Stock/Debuffs/Gyro Drift.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/CM-4/CM-4 Body.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/CHI-7700 Drive.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/ML-9 Mine Launcher.prefab
+- Assets/#BUNDLES/Stock/Maps/Canyon.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/MLS-2 Launcher.prefab
+- Assets/#BUNDLES/Stock/F2/Weapons/T30 Cannon.prefab
+- Assets/#BUNDLES/Stock/F1/Faction Alliance.asset
+- Assets/#BUNDLES/Stock/Common/Components/Auxiliary Steering.prefab
+- Assets/#BUNDLES/Stock/F2/Drives/BW800 Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk64 Cannon.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/ES22 'Pinard' Electronic Support Module.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Actively Cooled Amplifiers.prefab
+- Assets/#BUNDLES/Stock/F1/Drives/FM280 'Raider' Drive.prefab
+- Assets/#BUNDLES/Stock/F1/Weapons/Mk62 Cannon.prefab
+- Assets/#BUNDLES/Stock/Common/Components/Damage Control Central.prefab
+- Assets/#BUNDLES/Stock/Common/Munitions/Missile Components/Electro-Optical Seeker.asset
+- Assets/#BUNDLES/Stock/F2/Munitions/250mm HE-HC Shell.asset
+Dependencies: []

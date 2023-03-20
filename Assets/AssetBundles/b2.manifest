@@ -1,0 +1,105 @@
+ManifestFileVersion: 0
+CRC: 3594519873
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9e9e1780f05fc6ed747b83822db35220
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc0ad6fb651be996dec64e8d70126b91
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 129267010, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 1284957211, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 1325435507, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 476546549, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -503169215, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -17281661, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 1834869540, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1654375035, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1594382245, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1277060334, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -581704016, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1419217067, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 1312143581, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -611735610, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1899270409, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1466729778, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 862674389, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -774402571, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -458874659, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 1169962899, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -768538724, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1008933583, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundle/b2/shader/Hull_Shader vanilla.shadergraph
+- Assets/Bundle/b2/manifest.xml
+- Assets/Bundle/b2/B2.prefab
+- Assets/Bundle/b2/materials/Windows.mat
+- Assets/Bundle/b2/materials/Skin.mat
+Dependencies: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -503169215, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+  m_Name: New Sustained Effect
+  m_EditorClassIdentifier: 
+  _startClip: {fileID: 8300000, guid: f599029984387df06bf07ad7f3018f32, type: 3}
+  _sustainedClip: {fileID: 8300000, guid: 5ff55ee9b50b3eb8b87d8b4bce17e8d2, type: 3}
+  _endClip: {fileID: 8300000, guid: 27a64971d970f2d6eb2e7708f27669a2, type: 3}
+  _priority: 128
+  _volume: 1
+  _maxFalloffDistance: 100
+  _spatialBlend: 1
+  _doppler: 1
+  _startCrossfadeTime: 0.5
+  _endCrossfadeTime: 0.5
+  _rolloffMode: 0

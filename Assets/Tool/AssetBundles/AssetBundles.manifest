@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 2654152818
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: geoscream
+      Dependencies: {}
+    Info_1:
+      Name: b2
+      Dependencies: {}
+    Info_2:
+      Name: ultrakill2
+      Dependencies: {}

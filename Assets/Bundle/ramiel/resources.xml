@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ResourceFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<Resources>
+
+		<ResourceType>
+			<Name>Soul</Name>
+			<Unit>???</Unit>
+			<ScheduleMode>Ticked</ScheduleMode>
+		</ResourceType>
+
+	</Resources>
+
+</ResourceFile>

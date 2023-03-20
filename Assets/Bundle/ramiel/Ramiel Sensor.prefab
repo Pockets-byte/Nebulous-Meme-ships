@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &687005601
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 687005602}
+  - component: {fileID: 687005603}
+  m_Layer: 18
+  m_Name: Jammable
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &687005602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 687005601}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -23.49582, y: -15.824916, z: -14.839811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3091069107889539181}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 6e-45, z: 7.162e-42}
+--- !u!135 &687005603
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 687005601}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 1
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &3091069107889539183
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3091069107889539181}
+  - component: {fileID: 3091069107889539182}
+  m_Layer: 0
+  m_Name: Ramiel Sensor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3091069107889539181
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3091069107889539183}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 23.49582, y: 15.824916, z: 14.839811}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 687005602}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3091069107889539182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3091069107889539183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -199203187, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _partKey: EucVfHlGIEKcf2RusDTNsA
+  _maxHealth: 100
+  _functioningThreshold: 10
+  _damageThreshold: 15
+  _reinforced: 1
+  _bindTag: 
+  _dcPriority: 100
+  _casualtyClass: 1
+  _dcVoiceDisabledOnly: 0
+  _disabledParticles: {fileID: 0}
+  _saveKey: 
+  _modId: 0
+  _shortUIName: 
+  _smallImage: {fileID: 21300000, guid: 20dd8a88d3a25e24695eddbf85dc9d12, type: 3}
+  _largeImage: {fileID: 21300000, guid: 20dd8a88d3a25e24695eddbf85dc9d12, type: 3}
+  _factionKey: 
+  _shortDescription: 
+  _longDescription: 
+  _flavorText: 
+  _category: Sensors
+  _costBreakdownClass: 4
+  _compoundingCost: 0
+  _compoundingCostClass: 
+  _firstInstanceFree: 0
+  _compoundingMultiplier: 1
+  _pointCost: 0
+  _type: 2
+  _size: {x: 3, y: 3, z: 3}
+  _interiorOverhang: 0
+  _removeSocketCap: 0
+  _mass: 0
+  _bindToTag: RadarPanel
+  _rotateToFit: 0
+  _canTile: 0
+  Modifiers: []
+  _resourceDemandPriority: 10
+  ResourcesProvided: []
+  ResourcesRequired:
+  - _resourceName: Power
+    _amount: 100
+    _perUnit: 0
+    _onlyWhenOperating: 1
+  - _resourceName: Soul
+    _amount: 1
+    _perUnit: 0
+    _onlyWhenOperating: 0
+  _uniqueDebuffs: []
+  _rareDebuffChance: 0.05
+  _rareDebuffSubtype: 
+  _debuffProbability:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0.25
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 0.5
+      inSlope: 1
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _sigType: 0
+  _castType: 0
+  _elintCategory: 1
+  _stackingSensorID: 
+  _maxRange: 800
+  _radiatedPower: 4000
+  _gain: 60
+  _sensitivity: -30
+  _apertureSize: 90
+  _noiseFiltering: 0
+  _deviationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.670794
+      value: 0.0849632
+      inSlope: 0.047477353
+      outSlope: 0.047477353
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.29622373
+      outWeight: 1
+    - serializedVersion: 3
+      time: 0.8768734
+      value: 0.8054287
+      inSlope: 3.3581254
+      outSlope: 3.3581254
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.04246679
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _maxError: 0.5
+  _maxVelocityError: 0.05
+  _cueingOnly: 0
+  _canLock: 1
+  _lockErrorMultiplier: 2
+  _maintainLockSNR: 1
+  _canBurnthrough: 0
+  _burnthroughPowerMultiplier: 3
+  _burnthroughDamageProbability: 0.2
+  _burnthroughDamage: 25
+  _showJammingLOB: 1
+  _jammingLOBAccuracy: 1
