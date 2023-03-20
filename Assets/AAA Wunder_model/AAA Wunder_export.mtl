@@ -1,0 +1,10 @@
+newmtl PartMaterial(Clone)
+Kd 1 1 1
+map_Kd texture.AAAWunder_export.png
+illum 2
+
+newmtl PartTransparentZWrite(Clone)
+Kd 1 1 1
+map_Kd texture.AAAWunder_export.png
+illum 2
+

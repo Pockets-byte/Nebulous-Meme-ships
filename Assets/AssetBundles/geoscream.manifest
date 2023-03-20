@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1561303137
+CRC: 2603432439
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 85fe05605a92f30c8842b2d8004ded17
+    Hash: f78266c83432ae8d2f68e0383ca44dd2
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4fc2242b12f2c178193232892648a331
@@ -103,4 +103,5 @@ Assets:
 - Assets/Bundle/ramiel/Ramiel Beam.prefab
 - Assets/Bundle/ramiel/Ramiel.prefab
 - Assets/Bundle/ramiel/Ramiel Sensor.prefab
-Dependencies: []
+Dependencies:
+- /home/cake/Downloads/augh_updated/Assets/AssetBundles/b2
