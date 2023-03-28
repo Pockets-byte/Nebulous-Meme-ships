@@ -1,10 +1,11 @@
 ManifestFileVersion: 0
-CRC: 2654152818
+CRC: 1509929653
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: geoscream
-      Dependencies: {}
+      Dependencies:
+        Dependency_0: b2
     Info_1:
       Name: b2
       Dependencies: {}

@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2603432439
+CRC: 920627478
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f78266c83432ae8d2f68e0383ca44dd2
+    Hash: 68c15305ee472f4d36e5ba9d346c26f9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4fc2242b12f2c178193232892648a331
+    Hash: 3a0062bb43a45869dcb3f4124e67f909
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -38,11 +38,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 129267010, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
+  Script: {fileID: 976580525, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
   Script: {fileID: 837543884, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: 1325435507, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
-- Class: 114
-  Script: {fileID: 976580525, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: 1493258436, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
@@ -102,6 +102,9 @@ Assets:
 - Assets/Bundle/ramiel/resources.xml
 - Assets/Bundle/ramiel/Ramiel Beam.prefab
 - Assets/Bundle/ramiel/Ramiel.prefab
+- Assets/Bundle/ramiel/Sauron Class Four High Energy Dual Puropse Assault Radar.prefab
 - Assets/Bundle/ramiel/Ramiel Sensor.prefab
+- Assets/Bundle/ramiel/broken/Sauron Class Four High Energy Dual Puropse Assault
+  Radar.prefab
 Dependencies:
 - /home/cake/Downloads/augh_updated/Assets/AssetBundles/b2
