@@ -2868,7 +2868,9 @@ MonoBehaviour:
   _modId: 0
   _socketRoot: {fileID: 3379001787043215168}
   _subPartRoot: {fileID: 1745969161}
-  _paintableMeshes: []
+  _paintableMeshes:
+  - {fileID: 5914494000646511201}
+  - {fileID: 1528702375451390229}
   _armorThickness: 40
   _dynamicArmorZones:
   - HullSeg: {fileID: 5914494000646511201}
