@@ -39,7 +39,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 412719868747129082}
-  m_Mesh: {fileID: 509393691732008173, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+  m_Mesh: {fileID: 509393691732008173, guid: 47ee9b479fd4b0347bf9ea9dd7f3dc10, type: 3}
 --- !u!64 &2637187887970344857
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -53,7 +53,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 509393691732008173, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+  m_Mesh: {fileID: 509393691732008173, guid: 47ee9b479fd4b0347bf9ea9dd7f3dc10, type: 3}
 --- !u!1 &4954154450790313222
 GameObject:
   m_ObjectHideFlags: 0
@@ -93,7 +93,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4954154450790313222}
-  m_Mesh: {fileID: 1193214356581688375, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+  m_Mesh: {fileID: 1193214356581688375, guid: 47ee9b479fd4b0347bf9ea9dd7f3dc10, type: 3}
 --- !u!64 &6380800434212400016
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -107,7 +107,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: 1193214356581688375, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+  m_Mesh: {fileID: 1193214356581688375, guid: 47ee9b479fd4b0347bf9ea9dd7f3dc10, type: 3}
 --- !u!1 &8534607229810817952
 GameObject:
   m_ObjectHideFlags: 0
@@ -147,7 +147,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8534607229810817952}
-  m_Mesh: {fileID: -4693107339818702973, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+  m_Mesh: {fileID: -4693107339818702973, guid: 47ee9b479fd4b0347bf9ea9dd7f3dc10, type: 3}
 --- !u!64 &6812134682537097758
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -161,7 +161,7 @@ MeshCollider:
   serializedVersion: 4
   m_Convex: 0
   m_CookingOptions: 30
-  m_Mesh: {fileID: -4693107339818702973, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+  m_Mesh: {fileID: -4693107339818702973, guid: 47ee9b479fd4b0347bf9ea9dd7f3dc10, type: 3}
 --- !u!1 &9146289823303964003
 GameObject:
   m_ObjectHideFlags: 0

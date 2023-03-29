@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 732301015
+CRC: 1272139037
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65596f0a975cc1d354bbf20204e15f53
+    Hash: ea1a627325a571197d21c0025ed1eb78
   TypeTreeHash:
     serializedVersion: 2
     Hash: dc0ad6fb651be996dec64e8d70126b91
@@ -101,5 +101,6 @@ Assets:
 - Assets/Bundle/b2/manifest.xml
 - Assets/Bundle/b2/B2.prefab
 - Assets/Bundle/b2/materials/Windows.mat
+- Assets/Bundle/b2/colliders/Collider Sampler.prefab
 - Assets/Bundle/b2/materials/Skin.mat
 Dependencies: []
