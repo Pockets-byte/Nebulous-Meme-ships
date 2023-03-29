@@ -26,7 +26,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_335cea794ce74258affaee261b2f14f9:
-        m_Texture: {fileID: 2800000, guid: 7fbd9542e452daca5a5ee9f9a20a7bdd, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_45962e05006a4f72a3c3166a4290021b:
@@ -42,7 +42,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ArmorMask:
-        m_Texture: {fileID: 2800000, guid: 411033b73bbf38b4da6f7aa5181f8558, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseColorMap:
@@ -86,7 +86,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: 77bea9b4b7c57a740b5b5883d2f4a9ed, type: 3}
+        m_Texture: {fileID: 2800000, guid: 411033b73bbf38b4da6f7aa5181f8558, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
@@ -140,11 +140,11 @@ Material:
     m_Floats:
     - Vector1_213112fefea8448c85195a73918c714e: 50
     - Vector1_2b7183e7800a4bea9729058d6cd003df: 4
-    - Vector1_35B280CD: 1
+    - Vector1_35B280CD: 2
     - Vector1_379781a58bc244149afb686c52fae205: 0.5
     - Vector1_4919d9456c7f4d588b18944361fc0e90: 5
-    - Vector1_5EAA30E3: 3
-    - Vector1_e30c86121c5f4880874b1fdf7b1ec048: 1
+    - Vector1_5EAA30E3: 0.04
+    - Vector1_e30c86121c5f4880874b1fdf7b1ec048: 0.76
     - _AORemapMax: 1
     - _AORemapMin: 0
     - _ATDistance: 1
@@ -211,7 +211,7 @@ Material:
     - _PPDMinSamples: 5
     - _PPDPrimitiveLength: 1
     - _PPDPrimitiveWidth: 1
-    - _PlateBurnPower: 0
+    - _PlateBurnPower: 0.088
     - _RayTracing: 0
     - _ReceivesSSR: 1
     - _ReceivesSSRTransparent: 0
@@ -260,7 +260,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_2273685d0e8e472abdc4b6d79e1a1f66: {r: 0, g: 0.4470588, b: 1, a: 0}
-    - Vector2_50dee9529ea94045bf1fd53ea8304508: {r: 1, g: 1, b: 2, a: 0}
+    - Vector2_50dee9529ea94045bf1fd53ea8304508: {r: 1, g: 1, b: 2, a: 0.1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _BasePaintTint: {r: 0.23344605, g: 0.51970065, b: 0.8113208, a: 0}
@@ -272,7 +272,7 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _PlateBurnPos: {r: 0, g: 0, b: -100, a: 0}
+    - _PlateBurnPos: {r: 0, g: 0, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _StripePaintTint: {r: 0.3820755, g: 0.7906973, b: 1, a: 0.9372549}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}

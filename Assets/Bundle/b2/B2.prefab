@@ -25,14 +25,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 364284650293007976}
-  m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
+  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4086809119718294412}
   - {fileID: 489705267776442635}
   - {fileID: 7061861565260338986}
-  m_Father: {fileID: 5232603918460734282}
+  m_Father: {fileID: 5956433871043008700}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 180}
 --- !u!114 &4454126809986992833
@@ -302,7 +302,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4040689858271942664}
+  - {fileID: 5956433871043008700}
   - {fileID: 798349837029462818}
   - {fileID: 6706012089179792131}
   - {fileID: 2182761000436141561}
@@ -1348,6 +1348,9 @@ VisualEffect:
       - m_Value: 1
         m_Name: Power
         m_Overridden: 1
+      - m_Value: 0
+        m_Name: Afterburner Power
+        m_Overridden: 0
     m_Vector2f:
       m_Array: []
     m_Vector3f:
@@ -1371,6 +1374,9 @@ VisualEffect:
       - m_Value: 1
         m_Name: Damaged
         m_Overridden: 1
+      - m_Value: 0
+        m_Name: Afterburner
+        m_Overridden: 0
 --- !u!73398921 &7589206492875085463
 VFXRenderer:
   m_ObjectHideFlags: 0
@@ -3427,6 +3433,37 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: -4693107339818702973, guid: 4ba9869f9fc988eff87ec93fc02fd8d2, type: 3}
+--- !u!1 &8110729842875160761
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5956433871043008700}
+  m_Layer: 0
+  m_Name: mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5956433871043008700
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8110729842875160761}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4040689858271942664}
+  m_Father: {fileID: 5232603918460734282}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8135865366812123571
 GameObject:
   m_ObjectHideFlags: 0
