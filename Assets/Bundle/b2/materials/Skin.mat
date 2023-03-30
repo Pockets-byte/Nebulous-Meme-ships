@@ -51,7 +51,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ArmorDamageBase:
-        m_Texture: {fileID: 2800000, guid: 4ebcacf3429d2af4f8d2ecef9f4a30f4, type: 3}
+        m_Texture: {fileID: 2800000, guid: d30b160da48943442af0ddc1d7541e99, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ArmorMask:
@@ -99,11 +99,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MaskMap:
-        m_Texture: {fileID: 2800000, guid: 33ad6cbe03fbb356b9760af4cc9fd862, type: 3}
+        m_Texture: {fileID: 2800000, guid: b669465d1cdd05cbfbc07045103eb2be, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMap:
-        m_Texture: {fileID: 2800000, guid: 73dd42791a53cc11e9e22be2caeb4b5d, type: 3}
+        m_Texture: {fileID: 2800000, guid: 77bea9b4b7c57a740b5b5883d2f4a9ed, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _NormalMapOS:
@@ -155,9 +155,9 @@ Material:
     - Vector1_167785b386a744fc80ae7c15c2394ec0: 1
     - Vector1_213112fefea8448c85195a73918c714e: 50
     - Vector1_2379ffe83a724976bd481cb9affd48dc: 1
-    - Vector1_35B280CD: 0
+    - Vector1_35B280CD: 0.1
     - Vector1_379781a58bc244149afb686c52fae205: 0.5
-    - Vector1_5EAA30E3: 1
+    - Vector1_5EAA30E3: 0.3
     - Vector1_8956d240a0364498a509b430c1b814e0: 1
     - _AORemapMax: 1
     - _AORemapMin: 0
