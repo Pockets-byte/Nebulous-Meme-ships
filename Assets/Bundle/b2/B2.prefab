@@ -61,10 +61,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _originalMaterial: {fileID: 2100000, guid: 0ed0c9011cd733c12aea24d1251dfa7f, type: 2}
   _nameplateNegative: {fileID: 0}
-  _additionalMaterialTargets:
-  - {fileID: 8774778068736018474}
-  - {fileID: 2498091139053854360}
-  - {fileID: 3135698103372052875}
+  _additionalMaterialTargets: []
 --- !u!1 &727833796500978169
 GameObject:
   m_ObjectHideFlags: 0
@@ -368,6 +365,7 @@ MonoBehaviour:
   - _statName: hull-missilechannels
     _literal: 2
     _modifier: 0
+    _permanent: 0
   _selectVolume: {fileID: 3958590474458910496}
   _radarSignature: {fileID: 3958590475790838395}
   _structure: {fileID: 3958590474477725108}
