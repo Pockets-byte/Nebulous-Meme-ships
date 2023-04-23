@@ -87,9 +87,7 @@ VFXRenderer:
   m_RayTraceProcedural: 0
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  - {fileID: 0}
+  m_Materials: []
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -449,7 +447,7 @@ MonoBehaviour:
   _compoundingMultiplier: 1
   _pointCost: 0
   _type: 0
-  _size: {x: 30, y: 10, z: 30}
+  _size: {x: 100, y: 10, z: 100}
   _interiorOverhang: 0
   _removeSocketCap: 0
   _mass: 40
@@ -460,6 +458,10 @@ MonoBehaviour:
   _resourceDemandPriority: 10
   ResourcesProvided: []
   ResourcesRequired:
+  - _resourceName: Power
+    _amount: 1000
+    _perUnit: 0
+    _onlyWhenOperating: 1
   - _resourceName: Soul
     _amount: 1
     _perUnit: 0
@@ -655,10 +657,7 @@ VFXRenderer:
   m_RayTraceProcedural: 0
   m_RenderingLayerMask: 257
   m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  m_Materials: []
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
