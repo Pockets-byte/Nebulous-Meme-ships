@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BundleManifest xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi=	"http://www.w3.org/2001/XMLSchema-instance">
+
+	<BasePath>Assets/Bundle/hatak</BasePath>
+	<Namespace>Goauld Tech</Namespace>
+
+
+	<Hulls>
+	</Hulls>
+
+	<Components>
+		<Entry Name="Hatak weapon" Address="Heavy Repeating _Staff_ Artillery Battery.prefab"/>
+	</Components>
+
+	<Munitions>
+		<Entry Name="Liquid naquidah" Address="LN.asset"/>
+	</Munitions>
+
+</BundleManifest>

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -682611449, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+  m_Name: LN
+  m_EditorClassIdentifier: 
+  _pointCost: 1
+  _pointDivision: 1
+  _storageVolume: 1
+  _factionKey: 
+  _flavorText: aaaaaaaaaaaaaa
+  _screenshot: {fileID: 0}
+  _tags:
+    Class: Energy
+    Subclass: liquid naquadah
+  _role: 1
+  _weightClassDiscrepancy: 2
+  _maxFlightTime: 9
+  _flightSpeed: 85
+  _repoolDelay: 1
+  _armorPenetration: 35
+  _armorDamageRadius: 8
+  _heatPower: 9999
+  _componentDamage: 190
+  _randomEffectMultiplier: 1.1
+  _neverCrit: 0
+  _crewVulnerabilityMultiplier: 0.9
+  _maxPenetrationDistance: 0.5
+  _overrideComponentSearchDistance: -1
+  _overpenDamageMultiplier: 1.5
+  _overpenDamageSpreadMethod: 1
+  _ignoreDamageReduction: 0
+  _alwaysSpreadDamage: 0
+  _forceBodyWakeup: 0
+  _applyImpulseOnImpact: 1
+  _impulseMagnitude: 5
+  _effectsGroups:
+    _surfaceGroups: []
+  _modId: 0
+  _munitionName: 
+  _munitionKey: 0dfaf903-fd2c-4fcd-aaa2-8ee599fffb1f
+  _tracerEffect:
+    _effectAsset: {fileID: 8926484042661614526, guid: 368738989e11b7dd3bf3f43df80ef35c, type: 3}
+    _colors: []
+    _gradients: []
+    _floats: []
+  _whine: {fileID: 8300000, guid: 4b0ff3d1e3d69607faa09d8423559c0b, type: 3}
+  _castType: 1
+  _spherecastRadius: 2
+  _rayAngle: 15
+  _rayCount: 5
+  _alwaysDoStructureDamage: 0
+  _dedicatedStructureDamage: 0
+  _alwaysSpreadThroughStructure: 0
+  _playDestructionEffectOnTimeout: 0
+  _penetrationEnvelope: 0.8
+  _explosionRadius: 8
+  _explodeOnFirstUnDestroyed: 0

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2724350681
+CRC: 3349073686
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -11,4 +11,7 @@ AssetBundleManifest:
         Dependency_0: b2
     Info_2:
       Name: ultrakill2
+      Dependencies: {}
+    Info_3:
+      Name: hatak
       Dependencies: {}

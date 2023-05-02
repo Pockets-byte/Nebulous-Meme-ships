@@ -80,11 +80,7 @@ MonoBehaviour:
   Modifiers: []
   _resourceDemandPriority: 10
   ResourcesProvided: []
-  ResourcesRequired:
-  - _resourceName: Soul
-    _amount: 1
-    _perUnit: 0
-    _onlyWhenOperating: 0
+  ResourcesRequired: []
   _uniqueDebuffs: []
   _rareDebuffChance: 0.05
   _rareDebuffSubtype: 

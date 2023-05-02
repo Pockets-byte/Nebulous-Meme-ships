@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 2127902120, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+  m_Name: New Sound Effect
+  m_EditorClassIdentifier: 
+  _loop: 0
+  _priority: 132
+  _volume: 1.4
+  _maxFalloffDistance: 1000
+  _doppler: 0.18
+  _rolloffMode: 0
+  _vacuumEffect: 1
+  _clips:
+  - {fileID: 8300000, guid: 03d0fae8b383c172ea3f5a542c66511f, type: 3}
+  _randomizePitch: 1
+  _pitchVariationEnvelope: 0.17

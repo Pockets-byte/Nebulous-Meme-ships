@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3972127764
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc033f4601c5d14fa0d7c6f994463638
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82c3ab8479639993aefb3646f9168791
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 2130507620, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 976580525, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -1594382245, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -682611449, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -228037611, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 2127902120, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 73398921
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+- Class: 2083052967
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundle/Hatak/manifest.xml
+- Assets/Bundle/Hatak/Heavy Repeating _Staff_ Artillery Battery.prefab
+- Assets/Bundle/Hatak/LN.asset
+Dependencies: []
