@@ -91,6 +91,8 @@ VFXRenderer:
   m_Materials:
   - {fileID: 0}
   - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -186,7 +188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _ignoreAccuracyModifiers: 0
-  _baseAccuracy: 0.45
+  _baseAccuracy: 0.5
   _flash: {fileID: 1909988636671705740}
   _fireAnimation: {fileID: 0}
   _bulletLook: 0
@@ -219,7 +221,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5094132806017371287}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.1}
+  m_LocalPosition: {x: 0, y: 0, z: 0.26}
   m_LocalScale: {x: 1.3, y: 1.3, z: 1.3}
   m_Children: []
   m_Father: {fileID: 6257268048325188163}
@@ -453,7 +455,7 @@ MonoBehaviour:
   _useGenericAckCallback: 0
   _checkFriendlyFire: 1
   _checkObstaclesInWay: 1
-  _requireExternalAmmoFeed: 0
+  _requireExternalAmmoFeed: 1
   _allowAmmoSelection: 1
   _compatibleAmmoTags:
   - Class: Energy
@@ -461,7 +463,7 @@ MonoBehaviour:
   _detailType: Advanced Plasma Artillery
   _leadTargets: 1
   _leadIterations: 3
-  _onTargetAngle: 1.5
+  _onTargetAngle: 1
   _aimCheckRangeMultiplier: 1.2
   _accuracyMeasurementDistances:
   - 600

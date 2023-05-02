@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3972127764
+CRC: 873438823
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cc033f4601c5d14fa0d7c6f994463638
+    Hash: 4efb6e6f4d9434131da3bf1c649b74ff
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 82c3ab8479639993aefb3646f9168791
+    Hash: ac06058a523c753e4ba8d93a903d6ed9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,6 +29,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 72
   Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
 - Class: 83
   Script: {instanceID: 0}
 - Class: 114
@@ -41,6 +43,8 @@ ClassTypes:
   Script: {fileID: -682611449, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: -228037611, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: -2124736223, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: 2127902120, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 115
@@ -56,4 +60,5 @@ Assets:
 - Assets/Bundle/Hatak/manifest.xml
 - Assets/Bundle/Hatak/Heavy Repeating _Staff_ Artillery Battery.prefab
 - Assets/Bundle/Hatak/LN.asset
+- Assets/Bundle/Hatak/Staff hit.prefab
 Dependencies: []

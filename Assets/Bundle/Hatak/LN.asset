@@ -26,14 +26,14 @@ MonoBehaviour:
   _maxFlightTime: 9
   _flightSpeed: 85
   _repoolDelay: 1
-  _armorPenetration: 35
+  _armorPenetration: 40
   _armorDamageRadius: 8
-  _heatPower: 9999
-  _componentDamage: 190
+  _heatPower: 99999
+  _componentDamage: 500
   _randomEffectMultiplier: 1.1
   _neverCrit: 0
   _crewVulnerabilityMultiplier: 0.9
-  _maxPenetrationDistance: 0.5
+  _maxPenetrationDistance: 3
   _overrideComponentSearchDistance: -1
   _overpenDamageMultiplier: 1.5
   _overpenDamageSpreadMethod: 1
@@ -43,7 +43,18 @@ MonoBehaviour:
   _applyImpulseOnImpact: 1
   _impulseMagnitude: 5
   _effectsGroups:
-    _surfaceGroups: []
+    _surfaceGroups:
+    - _surfaceType: 
+      _ricochetEffects:
+      - {fileID: 2982673619837344799, guid: d179f35e67078e9c58763247fafea273, type: 3}
+      _impactEffects:
+      - {fileID: 2982673619837344799, guid: d179f35e67078e9c58763247fafea273, type: 3}
+      _penetratingEffects:
+      - {fileID: 2982673619837344799, guid: d179f35e67078e9c58763247fafea273, type: 3}
+      _penetrationExitEffects:
+      - {fileID: 2982673619837344799, guid: d179f35e67078e9c58763247fafea273, type: 3}
+      _destructionEffects:
+      - {fileID: 2982673619837344799, guid: d179f35e67078e9c58763247fafea273, type: 3}
   _modId: 0
   _munitionName: 
   _munitionKey: 0dfaf903-fd2c-4fcd-aaa2-8ee599fffb1f
@@ -54,7 +65,7 @@ MonoBehaviour:
     _floats: []
   _whine: {fileID: 8300000, guid: 4b0ff3d1e3d69607faa09d8423559c0b, type: 3}
   _castType: 1
-  _spherecastRadius: 2
+  _spherecastRadius: 4
   _rayAngle: 15
   _rayCount: 5
   _alwaysDoStructureDamage: 0
@@ -63,4 +74,4 @@ MonoBehaviour:
   _playDestructionEffectOnTimeout: 0
   _penetrationEnvelope: 0.8
   _explosionRadius: 8
-  _explodeOnFirstUnDestroyed: 0
+  _explodeOnFirstUnDestroyed: 1

@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: New Sound Effect
   m_EditorClassIdentifier: 
   _loop: 0
-  _priority: 132
-  _volume: 1.4
-  _maxFalloffDistance: 1000
-  _doppler: 0.18
-  _rolloffMode: 0
+  _priority: 91
+  _volume: 1
+  _maxFalloffDistance: 900
+  _doppler: 0.39
+  _rolloffMode: 1
   _vacuumEffect: 1
   _clips:
   - {fileID: 8300000, guid: 03d0fae8b383c172ea3f5a542c66511f, type: 3}
