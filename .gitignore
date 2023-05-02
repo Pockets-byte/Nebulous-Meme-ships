@@ -69,3 +69,19 @@ crashlytics-build.properties
 **/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 **/[As]sets/Tool/AssetBundles/stock
 
+Assets/Editor/AssetBundles/stock
+Assets/Editor/AssetBundles/stock-f1
+Assets/Editor/AssetBundles/stock-f1.manifest
+Assets/Editor/AssetBundles/stock-f1.manifest.meta
+Assets/Editor/AssetBundles/stock-f1.meta
+Assets/Editor/AssetBundles/stock-f2
+Assets/Editor/AssetBundles/stock-f2.manifest
+Assets/Editor/AssetBundles/stock-f2.manifest.meta
+Assets/Editor/AssetBundles/stock-f2.meta
+Assets/Editor/AssetBundles/stock-maps
+Assets/Editor/AssetBundles/stock-maps.manifest
+Assets/Editor/AssetBundles/stock-maps.manifest.meta
+Assets/Editor/AssetBundles/stock-maps.meta
+Assets/Editor/AssetBundles/stock.manifest
+Assets/Editor/AssetBundles/stock.manifest.meta
+Assets/Editor/AssetBundles/stock.meta
