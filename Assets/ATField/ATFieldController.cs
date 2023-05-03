@@ -22,25 +22,20 @@ public class ATFieldController : MonoBehaviour
     public float damagePerHit = 1;
     public float totalDamage = 0;
     public float hitRecoveryRate = 1f;
-    public float fadeTime = 2f;
     [GradientUsage(hdr:true)]
     public Gradient shieldColorOverDamage;
     bool broken = false;
     float timer;
-    public float fadeTimer = 0;
-    Color shieldColor;
     Material m;
     private void Start()
     {
         m = shieldMesh.GetComponent<Renderer>().material;
-        fadeTimer = fadeTime;
     }
     private void Update()
     {
         if(totalDamage > 0)
         {
             totalDamage -= hitRecoveryRate * Time.deltaTime;
-
             if(totalDamage > shieldHealth && !broken)
             {
                 broken = true;
@@ -65,10 +60,6 @@ public class ATFieldController : MonoBehaviour
         }
         else
         {
-            if (fadeTimer > 0)
-            {
-                fadeTimer -= Time.deltaTime;
-            }
             if (!collider.enabled)
             {
                 collider.enabled = true;
@@ -79,15 +70,7 @@ public class ATFieldController : MonoBehaviour
             }
         }
 
-        if (fadeTime > 0)
-        {
-            shieldColor = Vector4.Lerp(Color.black, shieldColorOverDamage.Evaluate(totalDamage / shieldHealth), Mathf.Max(0, fadeTimer / fadeTime));
-        } else
-        {
-            shieldColor = shieldColorOverDamage.Evaluate(totalDamage / shieldHealth);
-        }
-
-        m.SetColor("Color_497c8daef4f84b28aa3f1304441a0315", shieldColor);
+        m.SetColor("Color_497c8daef4f84b28aa3f1304441a0315", shieldColorOverDamage.Evaluate(totalDamage/shieldHealth));
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -112,6 +95,5 @@ public class ATFieldController : MonoBehaviour
         }
 
         totalDamage += damagePerHit;
-        fadeTimer = fadeTime;
     }
 }
