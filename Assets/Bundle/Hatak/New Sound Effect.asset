@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _loop: 0
   _priority: 91
-  _volume: 1
-  _maxFalloffDistance: 900
+  _volume: 2
+  _maxFalloffDistance: 500
   _doppler: 0.39
-  _rolloffMode: 1
+  _rolloffMode: 0
   _vacuumEffect: 1
   _clips:
   - {fileID: 8300000, guid: 03d0fae8b383c172ea3f5a542c66511f, type: 3}

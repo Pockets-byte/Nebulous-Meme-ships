@@ -13,29 +13,29 @@ MonoBehaviour:
   m_Name: LN
   m_EditorClassIdentifier: 
   _pointCost: 1
-  _pointDivision: 1
-  _storageVolume: 1
+  _pointDivision: 10000
+  _storageVolume: 0.36
   _factionKey: 
-  _flavorText: aaaaaaaaaaaaaa
+  _flavorText: 'This is liquid naquadah for the guns or soething '
   _screenshot: {fileID: 0}
   _tags:
     Class: Energy
     Subclass: liquid naquadah
   _role: 1
   _weightClassDiscrepancy: 2
-  _maxFlightTime: 9
+  _maxFlightTime: 6
   _flightSpeed: 85
   _repoolDelay: 1
-  _armorPenetration: 40
-  _armorDamageRadius: 8
+  _armorPenetration: 25
+  _armorDamageRadius: 6
   _heatPower: 99999
-  _componentDamage: 500
-  _randomEffectMultiplier: 1.1
+  _componentDamage: 250
+  _randomEffectMultiplier: 0.5
   _neverCrit: 0
   _crewVulnerabilityMultiplier: 0.9
   _maxPenetrationDistance: 3
   _overrideComponentSearchDistance: -1
-  _overpenDamageMultiplier: 1.5
+  _overpenDamageMultiplier: 0.5
   _overpenDamageSpreadMethod: 1
   _ignoreDamageReduction: 0
   _alwaysSpreadDamage: 0
@@ -71,7 +71,7 @@ MonoBehaviour:
   _alwaysDoStructureDamage: 0
   _dedicatedStructureDamage: 0
   _alwaysSpreadThroughStructure: 0
-  _playDestructionEffectOnTimeout: 0
+  _playDestructionEffectOnTimeout: 1
   _penetrationEnvelope: 0.8
   _explosionRadius: 8
   _explodeOnFirstUnDestroyed: 1

@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3140138828
+CRC: 3495233881
 Hashes:
   AssetFileHash:
     serializedVersion: 2
@@ -109,4 +109,4 @@ Assets:
 - Assets/Bundle/ramiel/broken/Sauron Class Four High Energy Dual Puropse Assault
   Radar.prefab
 Dependencies:
-- /home/cake/Downloads/augh_updated/Assets/AssetBundles/b2
+- /home/cake/Downloads/augh_updated/Assets/Editor/AssetBundles/b2
