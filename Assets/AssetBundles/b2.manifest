@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3129544687
+CRC: 3579215427
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3da425fdc5fa771ef074e88effbac048
+    Hash: db5f6ed023d0014a6c6028155e6e67df
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 71e69407f8eab2fc81eb6d46be532273
+    Hash: b0e564b047f05c726d703bf0e72b9d55
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -40,7 +40,7 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 129267010, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
-  Script: {fileID: 1834869540, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+  Script: {fileID: 1284957211, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: 1325435507, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
@@ -52,11 +52,11 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 862674389, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
-  Script: {fileID: 1284957211, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
-- Class: 114
   Script: {fileID: -503169215, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: -17281661, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
+- Class: 114
+  Script: {fileID: 1834869540, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
   Script: {fileID: -1654375035, guid: 3eb286bc6fee9d5459da4e5d0d2b910d, type: 3}
 - Class: 114
@@ -100,6 +100,8 @@ Assets:
 - Assets/Bundle/b2/shader/Hull_Shader vanilla.shadergraph
 - Assets/Bundle/b2/manifest.xml
 - Assets/Bundle/b2/B2.prefab
+- Assets/Bundle/b2/vfx/b2 thrusterwings.vfx
+- Assets/Bundle/b2/vfx/b2.vfx
 - Assets/Bundle/b2/materials/Windows.mat
 - Assets/Bundle/b2/colliders/Collider Sampler.prefab
 - Assets/Bundle/b2/materials/Skin.mat

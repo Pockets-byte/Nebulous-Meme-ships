@@ -3380,7 +3380,7 @@ MonoBehaviour:
   _paintableMeshes:
   - {fileID: 1449399333260040859}
   - {fileID: 5998450834248217071}
-  _armorThickness: 5
+  _armorThickness: 40
   _dynamicArmorZones:
   - HullSeg: {fileID: 5998450834248217071}
     Colliders:

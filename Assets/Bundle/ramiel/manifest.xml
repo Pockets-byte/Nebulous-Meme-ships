@@ -12,7 +12,7 @@
 	<Components>
 		<Entry Name="Ramiel Core" Address="Ramiel Core.prefab"/>
 		<Entry Name="Ramiel Command" Address="Ramiel Command.prefab"/>
-		<Entry Name="Ramiel Sensor" Address="Ramiel Sensor.prefab"/>
+<!--		<Entry Name="Ramiel Sensor" Address="Ramiel Sensor.prefab"/> -->
 		<Entry Name="Ramiel Beam" Address="Ramiel Beam.prefab"/>
 		<Entry Name="Sauron Class Four High Energy Dual Puropse Assault Radar" Address="Sauron Class Four High Energy Dual Puropse Assault Radar.prefab"/>
 	</Components>
