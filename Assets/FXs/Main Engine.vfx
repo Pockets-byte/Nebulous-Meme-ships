@@ -24,7 +24,7 @@ MonoBehaviour:
     x: -1601
     y: -246
     width: 1257
-    height: 2491
+    height: 2511
 --- !u!114 &114350483966674976
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5489,7 +5489,7 @@ MonoBehaviour:
   - {fileID: 8926484042661617299}
   m_ExposedName: Damaged
   m_Exposed: 1
-  m_Order: 4
+  m_Order: 0
   m_Category: 
   m_Min:
     m_Type:
@@ -5588,7 +5588,7 @@ MonoBehaviour:
   - {fileID: 8926484042661617301}
   m_ExposedName: Afterburner
   m_Exposed: 1
-  m_Order: 5
+  m_Order: 1
   m_Category: 
   m_Min:
     m_Type:
@@ -5679,7 +5679,7 @@ MonoBehaviour:
   - {fileID: 8926484042661617303}
   m_ExposedName: Power
   m_Exposed: 1
-  m_Order: 6
+  m_Order: 2
   m_Category: 
   m_Min:
     m_Type:
@@ -5777,7 +5777,7 @@ MonoBehaviour:
   - {fileID: 8926484042661617305}
   m_ExposedName: Afterburner Power
   m_Exposed: 1
-  m_Order: 7
+  m_Order: 3
   m_Category: 
   m_Min:
     m_Type:
