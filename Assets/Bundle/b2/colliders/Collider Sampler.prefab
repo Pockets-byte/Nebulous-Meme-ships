@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6155210850936070545}
   - component: {fileID: 5048534118433576038}
   - component: {fileID: 2637187887970344857}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: B-2_Spirit.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -65,7 +65,7 @@ GameObject:
   - component: {fileID: 608152455246540660}
   - component: {fileID: 8625129813906349910}
   - component: {fileID: 6380800434212400016}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: B-2_Spirit.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -119,7 +119,7 @@ GameObject:
   - component: {fileID: 3798842875887062624}
   - component: {fileID: 1524496206702581433}
   - component: {fileID: 8657818419402545169}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: B-2_Spirit.001 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -173,7 +173,7 @@ GameObject:
   - component: {fileID: 3403203929985915927}
   - component: {fileID: 6613431269696152986}
   - component: {fileID: 3723872632936500904}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: B-2_Spirit.002 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 559911188749343909}
   - component: {fileID: 2881783521627353497}
   - component: {fileID: 6812134682537097758}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: B-2_Spirit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -280,7 +280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1725859798569163659}
   - component: {fileID: 3317336391477373497}
-  m_Layer: 0
+  m_Layer: 30
   m_Name: Collider Sampler
   m_TagString: Untagged
   m_Icon: {fileID: 0}

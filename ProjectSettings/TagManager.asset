@@ -35,7 +35,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - collider
   - 
   m_SortingLayers:
   - name: Default

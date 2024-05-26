@@ -7,12 +7,12 @@ using UnityEngine.Rendering;
 using System.Collections.Generic;
 using System;
 using System.Linq;
-using FleetEditor.MissileEditor;
-using Munitions.ModularMissiles;
+//using FleetEditor.MissileEditor;
+//using Munitions.ModularMissiles;
 using static UnityEngine.Rendering.VirtualTexturing.Debugging;
 using System.Reflection;
-using Ships;
-using static Sound.AnnouncerVoiceSet;
+//using Ships;
+//using static Sound.AnnouncerVoiceSet;
 using UnityEngine.UI;
 //using static UnityEngine.Rendering.DebugUI;
 //using UnityEngine.InputSystem;
@@ -201,14 +201,57 @@ public class AGMMULTITOOL : EditorWindow
     string path = "C:/Steam/steamapps/common/Nebulous";
     bool groupEnabled;
 
-    [MenuItem("AGM's Toolkit/Quick Build AssetBundles")]
-    static void QuickBuildAllAssetBundles()
+    [MenuItem("Load Asset/Load All Assets")]
+    static void LoadAsset()
+    {
+        bool warning = EditorUtility.DisplayDialog("WARNING",
+        "This may cause performance issues and will prevent assets from being individually loaded"
+        , "Load Assets", "Do not load assets");
+        if (warning)
+        {
+            foreach (string bundle in bundles)
+            {
+                var stock = AssetBundle.LoadFromFile(Path.Combine(Application.dataPath + "/Editor/AssetBundles/" + bundle));
+                var prefabs = stock.LoadAllAssets<GameObject>();
+
+                foreach (GameObject prefab in prefabs)
+                {
+                    Instantiate(prefab);
+                }
+            }
+
+        }
+
+
+    }
+
+
+    [MenuItem("AGM's Toolkit/Quick Build Uncompressed AssetBundles")]
+    static void BuildUncompressedAssetBundle()
     {
         CreateFolders();
         string assetBundleDirectory = "Assets/Editor/AssetBundles";
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.UncompressedAssetBundle, EditorUserBuildSettings.activeBuildTarget);
     }
-    [MenuItem("AGM's Toolkit/Build AssetBundles")]
+
+    [MenuItem("AGM's Toolkit/Build LZ4 Compressed AssetBundles (Recommended)")]
+    static void BuildChunkBasedCompression()
+    {
+        CreateFolders();
+        string assetBundleDirectory = "Assets/Editor/AssetBundles";
+        BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.ChunkBasedCompression, EditorUserBuildSettings.activeBuildTarget);
+    }
+
+    [MenuItem("AGM's Toolkit/Build LZMA Compressed AssetBundles")]
+    static void BuildNone()
+    {
+        CreateFolders();
+        string assetBundleDirectory = "Assets/Editor/AssetBundles";
+        BuildPipeline.BuildAssetBundles(assetBundleDirectory, BuildAssetBundleOptions.None, EditorUserBuildSettings.activeBuildTarget);
+    }
+
+
+    /*
     static void BuildAllAssetBundles()
     {
         CreateFolders();
@@ -228,6 +271,7 @@ public class AGMMULTITOOL : EditorWindow
             }
         }
     }
+    */
 
 
     [MenuItem("AGM's Toolkit/Setup")]
@@ -447,7 +491,7 @@ public class AGMMULTITOOL : EditorWindow
             {
                 Directory.CreateDirectory(Application.dataPath + "/Lib");
                 string[] dlls = {
-                "Facepunch.Steamworks.Win64","kcp2k","Mirror", "Mirror.Components","Nebulous","Priority Queue","QFSW.QC","QuickGraph.All","QuickGraph.Core","QuickGraph.Serialization","RSG.Promise","ShapesRuntime","Telepathy","UIExtensions","Unity.Addressables","Unity.ResourceManager","Vectrosity","where-allocations", "Surge","XNode"};
+                "Facepunch.Steamworks.Win64","kcp2k","Mirror", "Mirror.Components","Nebulous","Priority Queue","QFSW.QC","QuickGraph.All","QuickGraph.Core","QuickGraph.Serialization","RSG.Promise","ShapesRuntime","Telepathy","UIExtensions","Unity.Addressables","Unity.ResourceManager","Vectrosity","where-allocations", "Surge","XNode", "Unity.Burst", "MoreLinq", "Unity.Burst.Unsafe"};
                 foreach (string dllname in dlls)
                 {
                     FileUtil.ReplaceFile(path + "\\Nebulous_Data\\Managed\\" + dllname + ".dll", Application.dataPath + "\\Lib\\" + dllname + ".dll");
